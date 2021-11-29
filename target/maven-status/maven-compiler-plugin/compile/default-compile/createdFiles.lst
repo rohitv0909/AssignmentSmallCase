@@ -1,0 +1,6 @@
+com/smallcase/glue/FlipkartPageTest.class
+com/smallcase/pages/FlipkartPage.class
+com/smallcase/pages/AmazonPage.class
+com/smallcase/util/WaitUtils.class
+com/smallcase/glue/BaseTest.class
+com/smallcase/runner/ScenarioOneRunner.class
